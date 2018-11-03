@@ -22,6 +22,7 @@ public class Category {
         Name = name;
     }
 
+
     public String getImage() {
         return Image;
     }
