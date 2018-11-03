@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "931642466568",
+    "firebase_url": "https://androideatit-6db5c.firebaseio.com",
+    "project_id": "androideatit-6db5c",
+    "storage_bucket": "androideatit-6db5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931642466568:android:dc0786487dbd534a",
+        "android_client_info": {
+          "package_name": "com.example.dell.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931642466568-e241g6ck4423genmr0rcdomnme5a5fda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.foodorder",
+            "certificate_hash": "948a908703e598b98b749fbae85df70046eff833"
+          }
+        },
+        {
+          "client_id": "931642466568-bkhmo94enunof062ehp90jf3h1u844ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3mvYRgtYOADA4ocmXsQFZ1q34jUu1-hA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931642466568-bkhmo94enunof062ehp90jf3h1u844ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
